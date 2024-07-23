@@ -1,4 +1,6 @@
-<!--info-header-start--><h1>FizzBuzz <img src="https://img.shields.io/badge/-hard-de3d37" alt="hard"/> <img src="https://img.shields.io/badge/-%23array-999" alt="#array"/> <img src="https://img.shields.io/badge/-%23math-999" alt="#math"/> <img src="https://img.shields.io/badge/-%23infer-999" alt="#infer"/></h1><blockquote><p>by Lee Crosby <a href="https://github.com/Cygnut" target="_blank">@Cygnut</a></p></blockquote><p><a href="https://tsch.js.org/14080/play" target="_blank"><img src="https://img.shields.io/badge/-Take%20the%20Challenge-3178c6?logo=typescript&logoColor=white" alt="Take the Challenge"/></a> </p><!--info-header-end-->
+## 挑战
+
+
 
 The FizzBuzz problem is a classic test given in coding interviews. The task is simple:
 
@@ -17,4 +19,5 @@ For large values of N, you will need to ensure that any types generated do so ef
 correctly using the tail-call optimisation for recursion).
 
 
-<!--info-footer-start--><br><a href="../../README.md" target="_blank"><img src="https://img.shields.io/badge/-Back-grey" alt="Back"/></a> <a href="https://tsch.js.org/14080/answer" target="_blank"><img src="https://img.shields.io/badge/-Share%20your%20Solutions-teal" alt="Share your Solutions"/></a> <a href="https://tsch.js.org/14080/solutions" target="_blank"><img src="https://img.shields.io/badge/-Check%20out%20Solutions-de5a77?logo=awesome-lists&logoColor=white" alt="Check out Solutions"/></a> <!--info-footer-end-->
+## 解答
+
